@@ -1,5 +1,5 @@
 
-  <img src="HeyCat.gif" />
+  <img src="Heyy.gif" />
 ---
 
 ### 📊 GitHub Stats
