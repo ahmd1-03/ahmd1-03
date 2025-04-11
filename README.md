@@ -1,14 +1,11 @@
-<table>
-  <tr>
-    <td align="left">
-      <h1>Hey~ I'm Ahmad! 👋</h1>
-      <p><i>Just someone who wants to continue to be enthusiastic about learning🚀</i></p>
-    </td>
-    <td align="right" width="300">
-      <img src="catGit.webp" width="280" alt="Animated gray cat" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <h1>Hey~ I'm Ahmad! 👋</h1>
+  <p><i>Just someone who wants to continue to be enthusiastic about learning 🚀</i></p>
+</div>
+
+<div align="right">
+  <img src="catGit.webp" width="350" alt="Animated gray cat" />
+</div>
 
 ---
 
