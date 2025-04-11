@@ -1,5 +1,5 @@
 
-  <img src="cat67123.png" />
+  <img src="CAT.png" />
 ---
 
 ### 📊 GitHub Stats
