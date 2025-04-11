@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Kucing animasi seperti Scratch style -->
-  <img src="https://media.tenor.com/XqKN59lJGG8AAAAi/cat-cute.gif" width="100" alt="cat moving animation" />
+  <img src="catGit.webp" />
 </p>
 
 <p align="center"><i>Just someone who wants to continue to be enthusiastic about learning</i></p>
