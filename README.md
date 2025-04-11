@@ -1,39 +1,38 @@
-<h1 align="center">Hi there, I'm <span style="color:#c084fc;">Ahmad</span> 👋</h1>
-<h3 align="center">Welcome to my Github🌌</h3>
-
+<h1 align="center">Hey~ I'm Ahmad! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=C084FC&width=435&lines=Junior+Developer;Still+Learning+Every+Day;Passionate+About+Web+%26+Code" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXRiNmxuY2J3bzJ1bGRocGdwZ3FzbjUwdDF4d3R5ajVjdHpmOTQ1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFKqnCdLPNOKc/giphy.gif" width="200"/>
+</p>
+
+<p align="center"><i>Just someone who wants to continue to be enthusiastic about learning</i></p>
+
+---
+
+### 🔧 Tech I'm Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github&theme=dark" />
 </p>
 
 ---
 
-### 🛠️ My Tools & Tech Stack
+### ✨ Stats & Progress
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,vscode&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmd1-03&show_icons=true&theme=tokyonight" width="50%" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
-
+### 🐱 Fun Corner
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmd1-03&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmd1-03&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd1-03&layout=compact&theme=tokyonight" width="40%" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/M9GbBd9nbDrOTu1qzb/giphy.gif" width="100" />
 </p>
 
 ---
 
-### 📫 Reach me here
+### 📫 Find me
 <p align="center">
-  <a href="https://instagram.com/ahmd1_03" target="_blank"><img src="https://img.shields.io/badge/@ahmd1_03-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ahmd1-03/ahmd1-03/main/assets/wave.svg" />
+  <a href="https://instagram.com/ahmd1_03" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a>
 </p>
