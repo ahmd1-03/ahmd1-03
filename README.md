@@ -1,8 +1,7 @@
 <h1 align="center">Hey~ I'm Ahmad! 👋</h1>
 
 <p align="center">
-  <!-- Kucing animasi seperti Scratch style -->
-  <img src="catGit.webp" />
+  <img src="catGit.webp" width="150" alt="gray animated cat" />
 </p>
 
 <p align="center"><i>Just someone who wants to continue to be enthusiastic about learning</i></p>
@@ -24,19 +23,24 @@
 ---
 
 ### 🎮 Mini Game Zone
-
 <p align="center">
   🧠 Test your brain here: <a href="https://www.mentalup.co/brain-games" target="_blank"><b>Mini Brain Puzzle Game</b></a><br>
-  *(fun and colorful puzzles like matching, memory, logic, etc — cocok buat ngisi waktu luang)*
+  <sub>(Fun and colorful puzzles: matching, memory, logic — cocok buat ngisi waktu luang!)</sub>
 </p>
 
 ---
 
-### 📫 Reach Me
+### 📬 Leave a Message or Say Hi!
+<p align="center">
+  ✉️ Feel free to send suggestions, greetings, or just say hi through these platforms!
+</p>
 
 <p align="center">
   <a href="mailto:ahmad@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%237B2CBF?style=for-the-badge&logo=codepen&logoColor=white" />
