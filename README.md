@@ -1,7 +1,8 @@
 <h1 align="center">Hey~ I'm Ahmad! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KittyGiraudel/kittygiraudel/master/assets/cat.gif" width="80" alt="cat icon"/>
+  <!-- Kucing animasi seperti Scratch style -->
+  <img src="https://media.tenor.com/XqKN59lJGG8AAAAi/cat-cute.gif" width="100" alt="cat moving animation" />
 </p>
 
 <p align="center"><i>Just someone who wants to continue to be enthusiastic about learning</i></p>
@@ -25,8 +26,8 @@
 ### 🎮 Mini Game Zone
 
 <p align="center">
-  👉 Try this simple little game: <a href="https://neal.fun/absurd-trolley-problems/" target="_blank"><b>Absurd Trolley Problems</b></a>  
-  *(fun moral dilemma game with simple UI — cocok buat istirahat coding!)*
+  🧠 Test your brain here: <a href="https://www.mentalup.co/brain-games" target="_blank"><b>Mini Brain Puzzle Game</b></a><br>
+  *(fun and colorful puzzles like matching, memory, logic, etc — cocok buat ngisi waktu luang)*
 </p>
 
 ---
@@ -34,10 +35,10 @@
 ### 📫 Reach Me
 
 <p align="center">
-  <a href="https://www.instagram.com/ahmdd1.3" target="_blank">
-    <img src="https://img.shields.io/badge/@ahmdd1.3-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <a href="mailto:ahmad@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <br><br>
-  <b>📧 Email:</b> ahmad@email.com  
-  <b>🌐 Portfolio:</b> <a href="https://your-portfolio-link.com" target="_blank">your-portfolio-link.com</a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%237B2CBF?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
 </p>
