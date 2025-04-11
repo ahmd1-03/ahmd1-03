@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
+  <div style="padding-top: 40px;">
     <h1>Hey~ I'm Ahmad! 👋</h1>
     <p><i>Just someone who wants to continue to be enthusiastic about learning 🚀</i></p>
   </div>
@@ -7,6 +7,8 @@
     <img src="catGit.webp" width="350" alt="Animated gray cat" />
   </div>
 </div>
+
+
 ---
 
 ### 📊 GitHub Stats
