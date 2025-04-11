@@ -1,10 +1,10 @@
 <table>
   <tr>
-    <td width="160">
-      <img src="catGit.webp" width="160" alt="Animated gray cat" />
+    <td align="left" width="220">
+      <img src="catGit.webp" width="200" alt="Animated gray cat" />
     </td>
-    <td>
-      <h1 align="left">Hey~ I'm Ahmad! 👋</h1>
+    <td align="left">
+      <h1>Hey~ I'm Ahmad! 👋</h1>
       <p><i>A passionate learner on a continuous journey to grow and explore the tech world 🚀</i></p>
     </td>
   </tr>
@@ -29,7 +29,7 @@
 <p align="center"><i>Have feedback, ideas, or just want to say hi? Feel free to reach out! Let’s be friends 🌟</i></p>
 
 <p align="center">
-  <a href="mailto:16ahmadd@email.com" target="_blank">
+  <a href="mailto:ahmad@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
@@ -39,3 +39,4 @@
     <img src="https://img.shields.io/badge/Portfolio-%237B2CBF?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
+
