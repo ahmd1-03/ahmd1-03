@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="padding-top: 40px;">
+  <div>
     <h1>Hey~ I'm Ahmad! 👋</h1>
     <p><i>Just someone who wants to continue to be enthusiastic about learning 🚀</i></p>
   </div>
