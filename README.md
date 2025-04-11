@@ -1,10 +1,14 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="catGit.webp" width="120" alt="Animated gray cat" />
-  <div>
-    <h1>Hey~ I'm Ahmad! 👋</h1>
-    <p><i>Just someone who wants to continue to be enthusiastic about learning</i></p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="160">
+      <img src="catGit.webp" width="160" alt="Animated gray cat" />
+    </td>
+    <td>
+      <h1 align="left">Hey~ I'm Ahmad! 👋</h1>
+      <p><i>A passionate learner on a continuous journey to grow and explore the tech world 🚀</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -15,12 +19,7 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd1-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmd1-03&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall GitHub Stats" />
-</p>
-
-<p align="center">
-  <i>These visual stats represent your coding journey on GitHub: contribution streaks, languages used, and overall activity. They update automatically based on your public GitHub activity.</i><br />
-  <i>Want to boost them? Stay active, contribute consistently, and share meaningful code!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmd1-03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
@@ -30,7 +29,7 @@
 <p align="center"><i>Have feedback, ideas, or just want to say hi? Feel free to reach out! Let’s be friends 🌟</i></p>
 
 <p align="center">
-  <a href="mailto:ahmad@email.com" target="_blank">
+  <a href="mailto:16ahmadd@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://instagram.com/yourusername" target="_blank">
