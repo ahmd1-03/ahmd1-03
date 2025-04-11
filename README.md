@@ -16,11 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd1-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <i>These stats show your coding activity and consistency on GitHub: how often you commit, how many contributions you've made, and which languages you use most.</i><br />
-  <i>Want to grow your stats? Stay consistent, contribute often, explore open source projects, and push quality code!</i>
-</p>
-
 ---
 
 ### 💬 Let's Connect
