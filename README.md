@@ -1,6 +1,6 @@
 <div align="left">
   <h1>Hey~ I'm Ahmad! 👋</h1>
-  <p><i>Just someone who wants to continue to be enthusiastic about learning 🚀</i></p>
+  <p>Just someone who wants to continue to be enthusiastic about learning </p>
 </div>
 
 <div align="right">
