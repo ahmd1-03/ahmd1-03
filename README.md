@@ -1,10 +1,10 @@
-<h1 align="center">Hey~ I'm Ahmad! 👋</h1>
-
-<p align="center">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="catGit.webp" width="120" alt="Animated gray cat" />
-</p>
-
-<p align="center"><i>A passionate learner on a continuous journey to grow and explore the tech world 🚀</i></p>
+  <div>
+    <h1>Hey~ I'm Ahmad! 👋</h1>
+    <p><i>Just someone who wants to continue to be enthusiastic about learning</i></p>
+  </div>
+</div>
 
 ---
 
@@ -14,6 +14,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmd1-03&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmd1-03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmd1-03&show_icons=true&theme=tokyonight&hide_border=true" alt="Overall GitHub Stats" />
+</p>
+
+<p align="center">
+  <i>These visual stats represent your coding journey on GitHub: contribution streaks, languages used, and overall activity. They update automatically based on your public GitHub activity.</i><br />
+  <i>Want to boost them? Stay active, contribute consistently, and share meaningful code!</i>
 </p>
 
 ---
