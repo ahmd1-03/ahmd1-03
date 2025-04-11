@@ -1,13 +1,5 @@
-<div align="left">
-  <h1>Hey~ I'm Ahmad! 👋</h1>
-  <p><i>Just someone who wants to continue to be enthusiastic about learning</i>> </p>
-</div>
 
-<div align="right">
-  <img src="catGit.webp" width="350" alt="Animated gray cat" />
-</div>
-
-
+  <img src="30982.gif" />
 ---
 
 ### 📊 GitHub Stats
