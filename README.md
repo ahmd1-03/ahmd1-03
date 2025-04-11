@@ -2,21 +2,6 @@
   <img src="HeyCat.gif" />
 ---
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-  
-  <div align="left" style="flex: 1; min-width: 250px;">
-    <h1 style="color:#d16ba5; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-      Hey~ I'm <span style="color:#d16ba5;">Ahmad</span>! 👋
-    </h1>
-    <p style="font-style: italic; color: #444;">Just someone who wants to continue to be enthusiastic about learning 🚀</p>
-  </div>
-
-  <div align="right" style="flex: 1; min-width: 250px;">
-    <img src="catGit.webp" width="300" alt="Animated waving cat" />
-  </div>
-</div>
-
-
 ### 📊 GitHub Stats
 <table align="center">
   <tr>
