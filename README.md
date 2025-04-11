@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td align="left" width="220">
-      <img src="catGit.webp" width="200" alt="Animated gray cat" />
-    </td>
     <td align="left">
       <h1>Hey~ I'm Ahmad! 👋</h1>
       <p><i>A passionate learner on a continuous journey to grow and explore the tech world 🚀</i></p>
+    </td>
+    <td align="right" width="300">
+      <img src="catGit.webp" width="280" alt="Animated gray cat" />
     </td>
   </tr>
 </table>
@@ -39,4 +39,3 @@
     <img src="https://img.shields.io/badge/Portfolio-%237B2CBF?style=for-the-badge&logo=codepen&logoColor=white" alt="Portfolio Badge" />
   </a>
 </p>
-
